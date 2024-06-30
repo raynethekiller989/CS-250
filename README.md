@@ -1,1 +1,7 @@
 # CS-250
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- Understanding user requirements typically begins with system analysis. This involves seeking input from the team and gathering feedback from previous users regarding any issues or desired modifications in the code. It's crucial to identify inputs and outputs during this process. User stories play a vital role in gathering this information as they allow users to articulate their requirements and preferences. Analyzing user stories helps us gain insight into the perspective of the end users.
+2.   How do I approach developing programs? What agile processesdo I hope to incorporate into my future development work?
+  -There are various approaches to program development. The Waterfall Method represents one strategy, focusing on systematic planning for specific needs. Another approach is Agile, which provides a more flexible methodology emphasizing iterative testing, planning, and client integration, offering a distinct way of working.
+  3. What does it mean to be a good team member in software development?
+  -Being a valuable team member involves comprehending your project responsibilities thoroughly and maintaining pace to prevent delays that could impact teammates. Additionally, listening to colleagues and offering assistance when needed are essential aspects of being a good team member.
